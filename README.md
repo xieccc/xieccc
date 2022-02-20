@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xieccc
 - 👀 I’m interested in JavaScript, Golang, computer games and so on
-- 🌱 I’m currently learning communication skills
-- 💞️ I’m looking to collaborate on cool projects to improve my programming skills
+- 🌱 I’m currently learning and improving my coding and communication skills
+- 💞️ I’m looking to collaborate on cool projects
 - 📫 This is my email address xiec135@gmail.com
